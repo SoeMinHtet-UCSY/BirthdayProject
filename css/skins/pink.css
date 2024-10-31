@@ -1,0 +1,21 @@
+/* pink color style */
+.event-section .event-item-inner span,
+.story-section .story-item i,
+.story-section .story-text h3,
+.Couple-section .couple i.fa-heart,
+.Couple-section .couple h3,
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+  color: #3e99f5;
+}
+.gallery-section .gallery-item-inner,
+.event-section .event-item-inner:before,
+.Couple-section .social-links a i,
+.Couple-section .couple img{
+  border-color: #3e99f5;
+}
+.rsvp-section,
+.event-section,
+.Couple-section .social-links a:hover i{
+  background-color: #3e99f5;
+}
